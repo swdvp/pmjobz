@@ -1,4 +1,3 @@
-cat << 'EOF' > ingest.py
 import os
 import requests
 import psycopg2
