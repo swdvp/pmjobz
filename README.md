@@ -71,4 +71,3 @@ uvicorn main:app --reload
 
 5. Open the Client UI Dashboard
 Open your local index.html file inside any modern desktop or mobile browser environment to see the pipeline actively stream production job information.
-# pmjobz
